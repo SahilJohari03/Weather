@@ -11,6 +11,8 @@ const iconsContainer = document.querySelector(".icons");
 const dayInfoEl = document.querySelector(".day_info");
 const listContentEl = document.querySelector(".list_content ul");
 
+// adding days 
+
 const days = [
   "Sunday",
   "Monday",
